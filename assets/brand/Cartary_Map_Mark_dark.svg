@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="800" viewBox="150 120 760 800">
+    <defs><clipPath id="mapshape"><path d="M 204 281 Q204 268 218 261 L423 166 Q440 158 455 166 L621 248 Q640 256 657 248 L838 162 Q861 152 861 179 L861 755 Q861 770 847 778 L650 874 Q639 881 626 874 L451 789 Q436 782 423 790 L215 888 Q191 898 191 874 L191 302 Q191 289 204 281 Z"/></clipPath></defs>
+    
+    
+    <g clip-path="url(#mapshape)">
+      <rect x="184" y="142" width="702" height="759" fill="#FFFDFC"/>
+      <path d="M450 154 L646 249 L646 883 L450 790 Z" fill="#EDF5F7"/>
+      <path d="M646 249 L874 141 L874 808 L646 883 Z" fill="#E8F4F7"/>
+      <path d="M525 836 C571 760 602 788 647 725 S743 651 875 652 L875 914 Z" fill="#C1E2F0"/>
+      <path d="M646 676 C721 627 730 582 875 583 L875 911 L646 911 Z" fill="#83B9D2" opacity="0.48"/>
+      <path d="M193 702 C289 696 317 580 409 582 S541 667 598 572 C654 466 738 452 866 415" fill="none" stroke="#83B9D2" stroke-width="30" stroke-linecap="round"/>
+      <path d="M450 166 L450 788" stroke="#C4D4DE" stroke-width="9" stroke-linecap="round"/>
+      <path d="M646 250 L646 872" stroke="#B4D1DE" stroke-width="9" stroke-linecap="round"/>
+      <path d="M 355 300 C 281 300 256 357 272 412 C 287 468 355 547 355 547 C 355 547 423 467 438 412 C 454 357 429 300 355 300 Z" fill="#EE9862"/>
+      <circle cx="355" cy="383" r="34" fill="#FFFFFF"/>
+    </g>
+    <path d="M 204 281 Q204 268 218 261 L423 166 Q440 158 455 166 L621 248 Q640 256 657 248 L838 162 Q861 152 861 179 L861 755 Q861 770 847 778 L650 874 Q639 881 626 874 L451 789 Q436 782 423 790 L215 888 Q191 898 191 874 L191 302 Q191 289 204 281 Z" fill="none" stroke="#F4F7F8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
